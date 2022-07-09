@@ -1,6 +1,6 @@
 #!/bin/bash -x
 function myFunction() {
-	echo 'hello';
+	echo 'hello world';
 }
 result="$myFunction"
 echo $result;
